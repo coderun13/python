@@ -15,6 +15,7 @@ print(age2)
 print(type(name))
 print(type(age))
 
+
 #Data types
 # Integer
 # String
