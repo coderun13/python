@@ -35,3 +35,5 @@ print(len(name))
 str2 = "I am $ symbol here"
 print(str2.find("$"))
 print(str2.count("$"))
+
+
