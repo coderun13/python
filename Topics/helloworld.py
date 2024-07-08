@@ -18,7 +18,6 @@ print(12+18)
 # Whitespace= Blank space,tab,carriage return,newline,formfeed
 # Other Characters - Python can process all ASCII and Unicode characters as part of data or literals
 
-
 #Input two numbers and print sum
 
 first = int(input("Enter first number: "))
@@ -42,3 +41,4 @@ print("avg is:",(a+b)/2)
 num1 = int(input("Enter num1: "))
 num2 = int(input("enter num2: "))
 print(num1 >= num2)
+
