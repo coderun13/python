@@ -47,7 +47,7 @@ print("AND operator:", val1 and val2)
 print("OR operator:", val1 or val2)
 
 #Type Conversion
-#conversion = automatically
+#conversion = automatically done
 
 a = 2 #int is converted to float
 b = 4.25
@@ -55,7 +55,7 @@ sum= a+b
 print(sum)
 
 #Type Casting
-#casting = manually
+#casting = manually done
 
 a = float("2") #string converted to float
 b = 4.25
