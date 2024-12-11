@@ -1,4 +1,5 @@
 # Check greatest of 3 numbers entered by the user
+# Take three numbers as input then compare by if and print
 
 num1 = int(input("Enter First number: "))
 num2 = int(input("Enter Second number: "))
