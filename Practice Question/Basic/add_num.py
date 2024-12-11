@@ -1,3 +1,5 @@
+#logic = Take input then sum = a + b
+
 #Input two numbers and print sum
 
 first = int(input("Enter first number: "))
