@@ -1,5 +1,5 @@
 # A built-in data type thta lets us create immutable sequences of values
-# 
+
 tup = (2,3,4,5)
 print(type(tup))
 print(tup[1:3]) #slicing
