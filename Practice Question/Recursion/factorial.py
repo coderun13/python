@@ -1,4 +1,6 @@
 # by function call
+# take an input, take fact as 1 then factorial is fact*1 where range is (1, n+1)
+
 n = int(input("Enter a number: "))
 
 # def fact(n):
@@ -9,7 +11,9 @@ n = int(input("Enter a number: "))
 
 # fact(n)
 
-#by recursion
+# by recursion
+# n should not be 0 or 1 then fact is n*fact(n-1)
+
 def fact(n):
     if(n==0 or n==1):
         return 1
