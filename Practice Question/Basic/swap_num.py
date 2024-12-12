@@ -1,4 +1,5 @@
 #take imput, then x, y = y, x then print
+
 x = int(input("Enter x: "))
 y = int(input("Enter y: "))
 print("the value of x is: ",x)
