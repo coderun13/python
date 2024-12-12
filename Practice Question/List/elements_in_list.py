@@ -1,3 +1,5 @@
+# make a list, print the elements , add a element
+
 hero = ["ironman","thor","batman","caption america"]
 
 def print_list(hero):
