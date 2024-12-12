@@ -1,3 +1,5 @@
+#use print_len function
+
 list = ["delhi","bokaro","MP","UP","Bihar","Chennai"]\
 
 def print_len(list):
