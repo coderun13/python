@@ -1,3 +1,5 @@
+#take year as input, check %4 then print
+
 year = int(input("Enter the year: "))
 if year % 4 == 0:
     print("It is a leap year")
