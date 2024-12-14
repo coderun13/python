@@ -1,7 +1,9 @@
+#logic = take a number as input check %2 == 0 then print
+
 num = int(input("Enter a number: "))
-if num%2 ==0 and num != 0:
+if num %2 == 0 and num != 0:
     print("Even number")
-elif num%2 != 0:
+elif num %2 != 0:
     print("Odd number")
 elif num == 0:
     print("The number is 0")
