@@ -6,6 +6,7 @@ Relational / Comparison Operators(==,!=,>,<,>=,<=)
 Assignment Operators(=,+=,-=,*=,/=,%=,**=)
 Logical Operators(not, and, or)
 """
+
 #Arithmetic operators
 a = 30
 b = 6
@@ -43,12 +44,10 @@ print(not (a > b))
 val1 = True
 val2 = False
 print("AND operator:", val1 and val2)
-
 print("OR operator:", val1 or val2)
 
 #Type Conversion
 #conversion = automatically done
-
 a = 2 #int is converted to float
 b = 4.25
 sum= a+b
@@ -56,9 +55,7 @@ print(sum)
 
 #Type Casting
 #casting = manually done
-
 a = float("2") #string converted to float
 b = 4.25
 print(type(a))
 print(a+b)
-
