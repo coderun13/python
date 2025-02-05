@@ -38,7 +38,7 @@
     <p>This project is licensed under the MIT License. See the <a href="https://github.com/coderun13/python/blob/main/LICENSE">LICENSE</a> file for more details.</p>
     <h2>Contact</h2>
     <p>For any questions or feedback, feel free to reach out to the repository owner on <a href="https://github.com/coderun13">GitHub</a>.</p>
-    <p>Happy coding! 😊</p>
+    <p>Happy coding!😊</p>
 </body>
 </html>
 
