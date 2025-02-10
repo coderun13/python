@@ -6,7 +6,7 @@
 <!--     <title>Python Project Repository</title> -->
 </head>
 <body>
-    <h1>Python Basic Questions and Projects</h1>
+    <h1>Python Basic Questions and Projects Repository</h1>
     <p>Welcome to the <strong>Python Project Repository</strong> by <a href="https://github.com/coderun13">Snehal Singh</a>. This repository contains various Python scripts and projects aimed at solving real-world problems and demonstrating core concepts of Python programming.</p>
    <h2>Topics Covered:</h2>
     <ul>
