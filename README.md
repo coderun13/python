@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Python Basic Questions and Projects Repository</h1>
-    <p>Welcome to the <strong>Python Project Repository</strong> by <a href="https://github.com/coderun13">coderun13</a>. This repository contains various Python scripts and projects aimed at solving real-world problems and demonstrating core concepts of Python programming.</p>
+    <p>Welcome to the <strong>Python Repository</strong> by <a href="https://github.com/coderun13">Snehal Singh</a>. This repository contains various Python scripts and projects aimed at solving real-world problems and demonstrating core concepts of Python programming.</p>
    <h2>Topics Covered:</h2>
     <ul>
         <li>Basics of Python</li>
@@ -38,7 +38,7 @@
     <p>This project is licensed under the MIT License. See the <a href="https://github.com/coderun13/python/blob/main/LICENSE">LICENSE</a> file for more details.</p>
     <h2>Contact</h2>
     <p>For any questions or feedback, feel free to reach out to the repository owner on <a href="https://github.com/coderun13">GitHub</a>.</p>
-    <p>Happy coding! 😊</p>
+    <p>Happy coding!</p>
 </body>
 </html>
 
