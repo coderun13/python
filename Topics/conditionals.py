@@ -12,7 +12,6 @@ elif(light == "yellow"):
 else:
     print("light is broken")
 
-
 # Grade student on the basis of marks 
 marks = int(input("Inter your marks: "))
 
@@ -26,7 +25,6 @@ else:
     grade = "D"
 print("Grade of the student is-> ", grade)
 
-
 # Check if a number by user is odd or even
 num =int(input("Enter a number: "))
 
@@ -34,7 +32,6 @@ if(num%2 == 0):
     print("Number is even")
 elif(num%2 != 0):
     print("Number is odd")
-
 
 # Check greatest of 3 numbers entered by the user
 num1 = int(input("Enter First number: "))
@@ -47,7 +44,6 @@ elif(num2 > num1 and num2 > num3):
     print("Second number is greatest")
 else:
     print("Third number is the greatest")
-
 
 # check if number is a multiple of 7 or not
 num =int(input("Enter a number: "))
