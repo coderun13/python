@@ -36,4 +36,7 @@ str2 = "I am $ symbol here"
 print(str2.find("$"))
 print(str2.count("$"))
 
-
+# indexing
+t = "hello all"
+print(t[4])
+print(t[-2])
