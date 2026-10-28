@@ -1,4 +1,4 @@
-# A built-in data type that lets us create immutable sequences of values
+# A built-in data type that lets us create immutable sequences of values, allows duplicate elements.
 
 tup = (2,3,4,5)
 print(type(tup))
@@ -12,8 +12,7 @@ print(type(tup))
 tup = (4,)
 print(type(tup))
 
-#turple methods
-
+#tuple methods
 tup1 = (2,1,3,1)
 print(tup1.index(1)) #returns index of first occurence
 print(tup1.count(1)) #counts total occurences
