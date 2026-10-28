@@ -43,5 +43,11 @@ print(new.pop())
 
 set1 = {12,13,14,15,16,3,5}
 set2 = {17,18,19,20,3,5}
+
+diff = set1.difference(set2)
+set1.intersection_update(set2)
+set1.difference_update(set2)
+print(set1)
+print(diff)
 print(set1.union(set2))
 print(set1.intersection(set2))
